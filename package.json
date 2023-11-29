@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node index",
         "dev": "nodemon index",
-        "deploy": "node commands.js"
+        "deploy": "node deploy-commands.js"
     },
     "keywords": [],
     "author": "= <=>",
